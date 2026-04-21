@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# NIFTI data
+*.nii
+*.nii.gz
+
+# MATLAB
+*.m~
+*.asv
+*.mex*
+*.mlappinstall
+*.mltbx
